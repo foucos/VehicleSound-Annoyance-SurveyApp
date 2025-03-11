@@ -5,7 +5,7 @@ A web-based application to collect and analyze human perception of vehicle sound
 
 ## Project Overview
 
-This app allows users to listen to vehicle sounds (car, motorcycle, truck), classify them, and rate their loudness. Responses are stored for further analysis.
+This app allows users to listen to vehicle sounds (car, motorcycle, truck or other), classify them, and rate their loudness(annoyance level). Responses are stored for further analysis.
 
 ## Technology Stack
 
