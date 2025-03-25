@@ -37,7 +37,6 @@ This app allows users to listen to vehicle sounds (car, motorcycle, truck or oth
 - If the credentials are correct, a session is created to track the user’s activity throughout their session.
 ## Session Management:
 - Upon successful login, a session is initiated to monitor the user's interactions with the application.
-- If the session remains inactive for a specified time, the user will be automatically logged out to ensure security.
 
 ## Relational diagram
 ![alt text](images/relational_schema.png)
