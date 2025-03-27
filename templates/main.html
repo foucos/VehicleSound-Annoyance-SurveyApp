@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{% block content %}
+	<h1>Main menu</h1>
+		<div id="menumsg">
+			Hello, {{ me.name }} ({{ me.uid }}, {{ me.role }})
+			
+		</div>
+	<br><br>
+	<a href="/team/dashboard">Team dashboard</a><br>
+	<a href="/users/manage">Manage users</a><br>
+	<a href="/vehicle/manage">Managa vehicles</a><br>
+	<a href="#"> View users</a><br>
+	<a href="/logout">Logout </a><br>
+
+{% endblock %}
